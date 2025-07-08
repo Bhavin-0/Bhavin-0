@@ -1,6 +1,10 @@
 # 💫 Hi 👋, I'm Bhavin Joshi
 ** -- **
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bhavin-0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shybean) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavin-joshi-a569b9278) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Bhavin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bhavin1947) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jbhavin401@gmail.com) 
 
@@ -17,8 +21,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhavin-0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavin-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhavin-0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
