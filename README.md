@@ -1,5 +1,7 @@
 # 💫 Hi 👋, I'm Bhavin Joshi
-** -- **
+**I am passionate about coding and love building things with code. I enjoy solving problems and learning new technologies. I'm currently focused on Java because of its power and wide use in the industry. My goal is to become a skilled Java developer and keep growing every day as a programmer.
+
+**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bhavin-0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
